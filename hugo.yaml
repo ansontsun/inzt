@@ -7,7 +7,7 @@ params:
   profileMode:
     enabled: true
     title: "Anson Sun" # optional default will be site title
-    subtitle: "Computer Engineering student @ University of Toronto"
+    subtitle: "Computer Engineering @ University of Toronto"
     imageUrl: "/assets/Avatar.png" # optional
     imageTitle: "Avatar" # optional
     imageWidth: 150 # custom size
