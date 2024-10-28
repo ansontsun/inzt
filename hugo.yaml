@@ -14,11 +14,11 @@ params:
     imageHeight: 150 # custom size
     buttons:
       - name: About
-        url: "/about"
+        url: "/about/"
       - name: Projects
-        url: "/projects"
+        url: "/projects/"
       - name: Blog
-        url: "/posts"
+        url: "/posts/"
 
   socialIcons: # optional
     - name: "email"
@@ -43,7 +43,7 @@ menu:
     weight: 10
   - identifier: about
     name: About
-    url: /about
+    url: /about/
     weight: 20
   - identifier: projects
     name: Projects
@@ -55,5 +55,5 @@ menu:
     weight: 40
   - identifier: search
     name: Search
-    url: /search
+    url: /search/
     weight: 50
