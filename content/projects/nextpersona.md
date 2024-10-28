@@ -33,4 +33,4 @@ During internal testing, NextPersona performed reasonably well in terms of respo
 The current state of this application is a technical preview of the capabilities of the GPT-4 model and the possibility of customizing “virtual friends” through adjustments in the system prompt sent using OpenAI’s API. NextPersona will receive regular updates that will include new features such as user accounts, long-term non-session-based data storage and retrieval, and much more.
 
 # Source Code
-This project is fully open source. The source code of this project can be access through GitHub [here](https://github.com/ansontsun/nextpersona).
+NextPersona is fully open source. The source code of this project can be accessed through GitHub [here](https://github.com/ansontsun/nextpersona).
