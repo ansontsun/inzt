@@ -10,8 +10,8 @@ params:
     subtitle: "Computer Engineering student @ University of Toronto"
     imageUrl: "/assets/Avatar.png" # optional
     imageTitle: "Avatar" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
+    imageWidth: 150 # custom size
+    imageHeight: 150 # custom size
     buttons:
       - name: About
         url: "/about"
