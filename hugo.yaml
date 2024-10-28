@@ -27,6 +27,7 @@ params:
       url: "https://www.linkedin.com/in/ansontsun/"
     - name: "github"
       url: "https://github.com/ansontsun/"
+  social: true
 
 outputs:
   home:

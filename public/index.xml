@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>INZT</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.inzt.com/</link>
     <description>Recent content on INZT</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.inzt.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome!</title>
-      <link>http://localhost:1313/posts/welcome/</link>
+      <link>https://www.inzt.com/posts/welcome/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/welcome/</guid>
+      <guid>https://www.inzt.com/posts/welcome/</guid>
       <description>&lt;p&gt;Welcome to inzt.com! This is my personal website and I hope you can get to know me better as you browse.&lt;/p&gt;
 &lt;p&gt;If you have any questions, please don&amp;rsquo;t hesitate to &lt;a href=&#34;mailto:anson.sun@mail.utoronto.ca&#34;&gt;reach out to me&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Thanks and have an amazing day!&lt;/p&gt;
@@ -20,27 +20,27 @@
     </item>
     <item>
       <title>NextPersona</title>
-      <link>http://localhost:1313/projects/nextpersona/</link>
+      <link>https://www.inzt.com/projects/nextpersona/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/nextpersona/</guid>
+      <guid>https://www.inzt.com/projects/nextpersona/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://np.smoono.com/&#34;&gt;NextPersona&lt;/a&gt; is a web application that enables its users to personalize their own digital “persona” and hold conversations with it natively. This application utilizes the large language model GPT-4 by OpenAI, enabling seamless and natural conversational exchanges in multiple languages.&lt;/p&gt;
 &lt;p&gt;NextPersona is developed in Python, with inspiration from &lt;a href=&#34;https://github.com/avrabyt/MemoryBot&#34;&gt;@avrabyt’s MemoryBot&lt;/a&gt;. Streamlit is chosen as the platform for frontend due to its easy-to-use GUI library and concise documentation. LangChain is utilized as the backend for this app for its capability of integrating multiple AI models, enabling the possibility of easy scaling and expansion in the future.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ALPR System</title>
-      <link>http://localhost:1313/projects/alpr-system/</link>
+      <link>https://www.inzt.com/projects/alpr-system/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/alpr-system/</guid>
+      <guid>https://www.inzt.com/projects/alpr-system/</guid>
       <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
 &lt;p&gt;The Automated Licence Plate Recognition System (ALPR) is a machine-learning application that can recognize the text on vehicle license plates, from a give sample of image or video. An rigorous approach was taken to develop, train and optimize the models needed for this task.&lt;/p&gt;
 &lt;p&gt;Specifically, YOLOv10 and YOLOv8 were adapted and customized to perform object recognition on licence plates. EasyOCR is adapted and trained to recognize and output plaintext from captured licence plates.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://www.inzt.com/about/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://www.inzt.com/about/</guid>
       <description>&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
 &lt;h3 id=&#34;university-of-toronto&#34;&gt;University of Toronto&lt;/h3&gt;
 &lt;p&gt;Bachelor of Applied Science in Computer Engineering + PEY Co-op&lt;br&gt;
@@ -55,7 +55,7 @@
 &lt;li&gt;ECE345: Algorithms and Data Structures&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;projects-and-experience&#34;&gt;Projects and Experience&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/projects&#34;&gt;View the available collection on this website.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.inzt.com/projects&#34;&gt;View the available collection on this website.&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;skills-and-abilities&#34;&gt;Skills and Abilities&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Programming&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -75,9 +75,9 @@
     </item>
     <item>
       <title>ScenicExplorer</title>
-      <link>http://localhost:1313/projects/scenic-explorer/</link>
+      <link>https://www.inzt.com/projects/scenic-explorer/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/scenic-explorer/</guid>
+      <guid>https://www.inzt.com/projects/scenic-explorer/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;ScenicExplorer is an efficient mapping and navigation software that enables real-time interaction with all possible geographical data in OpenStreetMap format.
 Written in C++, it is smart, user-friendly, and ultimately, does its job right.&lt;/p&gt;
