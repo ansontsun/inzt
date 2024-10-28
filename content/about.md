@@ -8,7 +8,7 @@ ShowToc: true
 # Education
 ### University of Toronto
 Bachelor of Applied Science in Computer Engineering + PEY Co-op\
-*2022 - Current*
+*2022 - Present*
 
 **Notable Courses**
 - ECE241: Digital Systems
