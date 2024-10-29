@@ -5,6 +5,8 @@ draft: false
 ShowToc: true
 ---
 
+{{< figure src="/assets/Avatar_Resized.png">}}
+
 # Education
 ### University of Toronto
 Bachelor of Applied Science in Computer Engineering + PEY Co-op\

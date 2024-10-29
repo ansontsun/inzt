@@ -41,7 +41,11 @@
       <link>https://www.inzt.com/about/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://www.inzt.com/about/</guid>
-      <description>&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+      <description>&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://www.inzt.com/assets/Avatar_Resized.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
 &lt;h3 id=&#34;university-of-toronto&#34;&gt;University of Toronto&lt;/h3&gt;
 &lt;p&gt;Bachelor of Applied Science in Computer Engineering + PEY Co-op&lt;br&gt;
 &lt;em&gt;2022 - Present&lt;/em&gt;&lt;/p&gt;
