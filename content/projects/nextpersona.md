@@ -13,7 +13,7 @@ cover:
 ---
 
 # Introduction
-[NextPersona](https://np.smoono.com/) is a web application that enables its users to personalize their own digital “persona” and hold conversations with it natively. This application utilizes the large language model GPT-4 by OpenAI, enabling seamless and natural conversational exchanges in multiple languages.
+[NextPersona](https://www.nextpersona.com/) is a web application that enables its users to personalize their own digital “persona” and hold conversations with it natively. This application utilizes the large language model GPT-4 by OpenAI, enabling seamless and natural conversational exchanges in multiple languages.
 
 NextPersona is developed in Python, with inspiration from [@avrabyt’s MemoryBot](https://github.com/avrabyt/MemoryBot). Streamlit is chosen as the platform for frontend due to its easy-to-use GUI library and concise documentation. LangChain is utilized as the backend for this app for its capability of integrating multiple AI models, enabling the possibility of easy scaling and expansion in the future.
 
