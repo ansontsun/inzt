@@ -19,6 +19,9 @@ params:
         url: "/projects/"
       - name: Blog
         url: "/posts/"
+  
+  assets:
+    favicon: "/assets/Favicon.ico"
 
   socialIcons: # optional
     - name: "email"
