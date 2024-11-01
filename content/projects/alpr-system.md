@@ -21,7 +21,7 @@ Specifically, YOLOv10 and YOLOv8 were adapted and customized to perform object r
 This project is open source with its source code published on GitHub. You may access it [here](https://github.com/ansontsun/Advanced-ALPR-System).
 
 # Detailed Report
-To access the fully-detailed project report, please [email me](mailto:anson.sun@mail.utoronto.ca).
+To access the fully-detailed project report, please [contact me](/).
 
 # Team Acknowledgement
 This project is a collaborative effort by four team members, including myself. I would like to thank David Huang, Edward Liu and Chuhan Meng for their time and effort put into this project.
