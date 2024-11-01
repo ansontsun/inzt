@@ -35,9 +35,9 @@ Conveniently situated right below the search bar, info buttons can be clicked to
 {{< figure src="/assets/ScenicExplorer/ScenicExplorer_Buttons.png" caption="Figure 3. One-click information buttons.">}}
 
 # Wrapping Up
-This was a challenging piece of software to design and write, and I have gained a substantial amount of skills and experience going through the development process. There are a lot more to ScenicExplorer than what has been described above. Feel free to contact me if you'd like to learn more.
+This was a challenging piece of software to design and write, and I have gained a substantial amount of skills and experience going through the development process. There are a lot more to ScenicExplorer than what have been described above. Feel free to contact me if you'd like to learn more.
 
 I'm also grateful to have two outstanding team members to collaborate with along the way. I would like to thank Chiyuan Sun and Simona Liu for their time and effort put into creating ScenicExplorer.
 
 # Source Code
-Due to university policy, the source code of ScenicExplorer generally needs to remain private. However, if source code is required for purposes such as employment screening, please [email me](mailto:anson.sun@mail.utoronto.ca).
+Due to university policy, the source code of ScenicExplorer generally needs to remain private. However, if source code is required for purposes such as employment screening, please [contact me](/).

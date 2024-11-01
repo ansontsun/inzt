@@ -90,5 +90,20 @@ Written in C++, it is smart, user-friendly, and ultimately, does its job right.&
 &lt;h2 id=&#34;auto-completion&#34;&gt;Auto-Completion&lt;/h2&gt;
 &lt;p&gt;Searching for places can be a pain, especially when people just want to explore. Auto-completion removes the need for users to memorize every single place they intend to search up by bringing up suggestions instantly once the user starts typing into the search bar. Fast and responsive, the suggestions change dynamically as the input changes over time.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>FPGA Clarinet Simulator</title>
+      <link>https://www.inzt.com/projects/fpga-clarinet-simulator/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.inzt.com/projects/fpga-clarinet-simulator/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;The FPGA Clarinet Simulator is an application developed in C that simulates the notes produced by a B♭ clarinet. The simulator runs natively on Terasic&amp;rsquo;s DE1-SoC FPGA and is compiled using Quartus.&lt;/p&gt;
+&lt;h1 id=&#34;key-features&#34;&gt;Key Features&lt;/h1&gt;
+&lt;h2 id=&#34;instructions-screen&#34;&gt;Instructions Screen&lt;/h2&gt;
+&lt;p&gt;The instructions screen containing all possible ways the user can interact with the simulator. The characters are transcribed into a collection of pixel in order to be displayed on the VGA display.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://www.inzt.com/assets/FPGA_Clarinet_Simulator/FPGA_Clarinet_Simulator_Instructions.png&#34;
+         alt=&#34;Figure 1. Instructions screen.&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Figure 1. Instructions screen.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

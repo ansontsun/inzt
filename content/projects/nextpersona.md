@@ -19,7 +19,7 @@ NextPersona is developed in Python, with inspiration from [@avrabyt’s MemoryBo
 
 {{< figure src="/assets/NextPersona/NextPersona_Main_Page.png" caption="Figure 1. NextPersona's main page." >}}
 
-# Customization and Configuration
+# Customization & Configuration
 NextPersona offers users with in-depth configuration features that allows the “persona” to be customized according to the user’s preference. In a single session, configuration parameters can be changed on-the-fly as desired to fine-tune the response from the model.
 
 {{< figure src="/assets/NextPersona/NextPersona_Config_Menu.png" caption="Figure 2. Config menu.">}}
