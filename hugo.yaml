@@ -25,7 +25,7 @@ params:
     favicon16x16: "/assets/favicon/favicon-16x16.png"
     favicon32x32: "/assets/favicon/favicon-32x32.png"
     apple_touch_icon: "/assets/favicon/apple-touch-icon.png"
-    safari_pinned_tab: "/assets/favicon/apple-touch-icon.png"
+    safari_pinned_tab: "/assets/favicon/safari-pinned-tab.png"
 
   socialIcons: # optional
     - name: "email"
