@@ -13,11 +13,11 @@ cover:
 ---
 
 # Introduction
-The FPGA Clarinet Simulator is an application developed in C that simulates the notes produced by a B♭ clarinet. The simulator runs natively on Terasic's DE1-SoC FPGA and is compiled using Quartus.
+The FPGA Clarinet Simulator is an application developed in C that simulates the notes produced by a B♭ clarinet. FPGA Clarinet Simulator runs natively on Terasic's DE1-SoC FPGA and is compiled using Quartus.
 
 # Key Features
 ## Instructions Screen
-The instructions screen containing all possible ways the user can interact with the simulator. The characters are transcribed into a collection of pixel in order to be displayed on the VGA display.
+The instructions screen contains all possible ways the user can interact with the simulator. The characters are transcribed into a collection of pixel in order to be displayed on the VGA display.
 
 {{< figure src="/assets/FPGA_Clarinet_Simulator/FPGA_Clarinet_Simulator_Instructions.png" caption="Figure 1. Instructions screen.">}}
 
@@ -27,7 +27,7 @@ The main interactions (playing notes, recording operations, etc.) with the simul
 {{< figure src="/assets/FPGA_Clarinet_Simulator/FPGA_Clarinet_Simulator_Key_Press.png" caption="Figure 2. Key press visualization.">}}
 
 ## Recording & Playback
-The simulator is capable to "record" the notes played by storing the audio snippets into on-board memory, for playback or deletion later on. To assist with more challenging music pieces, an animated metronome is built-in. The user is informed of each process ongoing through the dynamically-rendered GUI displayed on the VGA screen.
+The simulator is capable of "recording" the notes played by storing the audio snippets into on-board memory, for playback or deletion later on. To assist with more challenging music pieces, an animated metronome is built-in. The user is informed of each process ongoing through the dynamically-rendered GUI displayed on the VGA screen.
 
 {{< figure src="/assets/FPGA_Clarinet_Simulator/FPGA_Clarinet_Simulator_Recording_Playback.png" caption="Figure 3. Playback and metronome in action.">}}
 
