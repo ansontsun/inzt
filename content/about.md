@@ -5,7 +5,7 @@ draft: false
 ShowToc: true
 ---
 
-{{< figure src="/assets/Avatar_Resized.png">}}
+{{< figure src="/assets/Avatar.png" height="300px" width="300px">}}
 
 # Education
 ### University of Toronto

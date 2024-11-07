@@ -14,7 +14,7 @@
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://www.inzt.com/posts/welcome/</guid>
       <description>&lt;p&gt;Welcome to inzt.com! This is my personal website and I hope you can get to know me better as you browse.&lt;/p&gt;
-&lt;p&gt;If you have any questions, please don&amp;rsquo;t hesitate to &lt;a href=&#34;mailto:anson.sun@mail.utoronto.ca&#34;&gt;reach out to me&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you have any questions, please don&amp;rsquo;t hesitate to &lt;a href=&#34;https://www.inzt.com/&#34;&gt;reach out to me&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Thanks and have an amazing day!&lt;/p&gt;
 &lt;p&gt;-Anson&lt;/p&gt;</description>
     </item>
@@ -42,7 +42,7 @@
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://www.inzt.com/about/</guid>
       <description>&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;https://www.inzt.com/assets/Avatar_Resized.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://www.inzt.com/assets/Avatar.png&#34; width=&#34;300px&#34; height=&#34;300px&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
@@ -96,14 +96,10 @@ Written in C++, it is smart, user-friendly, and ultimately, does its job right.&
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://www.inzt.com/projects/fpga-clarinet-simulator/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;The FPGA Clarinet Simulator is an application developed in C that simulates the notes produced by a B♭ clarinet. The simulator runs natively on Terasic&amp;rsquo;s DE1-SoC FPGA and is compiled using Quartus.&lt;/p&gt;
+&lt;p&gt;The FPGA Clarinet Simulator is an application developed in C that simulates the notes produced by a B♭ clarinet. FPGA Clarinet Simulator runs natively on Terasic&amp;rsquo;s DE1-SoC FPGA and is compiled using Quartus.&lt;/p&gt;
 &lt;h1 id=&#34;key-features&#34;&gt;Key Features&lt;/h1&gt;
 &lt;h2 id=&#34;instructions-screen&#34;&gt;Instructions Screen&lt;/h2&gt;
-&lt;p&gt;The instructions screen containing all possible ways the user can interact with the simulator. The characters are transcribed into a collection of pixel in order to be displayed on the VGA display.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;https://www.inzt.com/assets/FPGA_Clarinet_Simulator/FPGA_Clarinet_Simulator_Instructions.png&#34;
-         alt=&#34;Figure 1. Instructions screen.&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;Figure 1. Instructions screen.&lt;/p&gt;</description>
+&lt;p&gt;The instructions screen contains all possible ways the user can interact with the simulator. The characters are transcribed into a collection of pixel in order to be displayed on the VGA display.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
