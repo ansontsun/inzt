@@ -20,10 +20,10 @@ Bachelor of Applied Science in Computer Engineering + PEY Co-op\
 - ECE344: Operating Systems
 - ECE345: Algorithms and Data Structures
 
-# Projects and Experience
+# Projects & Experience
 [View the available collection on this website.](/projects)
 
-# Skills and Abilities
+# Skills & Abilities
 **Programming**
 - Python (including Streamlit and LangChain)
 - Java
