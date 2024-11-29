@@ -21,7 +21,7 @@ Bachelor of Applied Science in Computer Engineering + PEY Co-op\
 - ECE345: Algorithms and Data Structures
 
 # Projects & Experience
-[View the available collection on this website.](/projects)
+[View the available collection on this website.](/projects/)
 
 # Skills & Abilities
 **Programming**
