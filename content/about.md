@@ -34,7 +34,7 @@ Bachelor of Applied Science in Computer Engineering + PEY Co-op\
 - TypeScript
 - SQL
 - Assembly (Nios II)
-- Verilog (Intel Cyclone V)
+- Verilog
 - HTML & XML
 
 **Technical**
