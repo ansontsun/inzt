@@ -26,15 +26,15 @@ Bachelor of Applied Science in Computer Engineering + PEY Co-op\
 # Skills & Abilities
 **Programming**
 - Python (including Streamlit and LangChain)
-- Java
-- JavaScript (including React, LangChain, Node.js, Next.js)
-- TypeScript
-- Swift
-- Assembly (Nios II)
-- Verilog (Intel Cyclone V)
 - C
 - C++
 - CSS
+- Java
+- JavaScript (including React, LangChain, Node.js, Next.js)
+- TypeScript
+- SQL
+- Assembly (Nios II)
+- Verilog (Intel Cyclone V)
 - HTML & XML
 
 **Technical**
